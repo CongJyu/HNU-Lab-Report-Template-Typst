@@ -4,6 +4,8 @@
 
 此模版修改自 NKU 实验报告 Typst 模版：[Starlight0798/typst-nku-lab-template](https://github.com/Starlight0798/typst-nku-lab-template)，在其基础上添加 HNU 校徽和校名，调整封面间距，并复刻 Word 版实验报告封面略为模糊的校徽风格。
 
+当前 Typst 版本：Typst 0.13
+
 ## 关于 Typst
 
 Typst 是可用于出版的可编程标记语言，拥有变量、函数与包管理等现代编程语言的特性，注重于科学写作 (science writing)，定位与 LaTeX 相似。
